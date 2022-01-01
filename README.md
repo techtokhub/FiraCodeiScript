@@ -1,0 +1,2 @@
+# FiraCodeiScript
+Font for VSCode
